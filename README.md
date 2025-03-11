@@ -18,19 +18,19 @@ Que ce soit dans le secteur retail, l'intelligence économique ou pour des proje
 
 - 🚀 Projets en vedette :
   - **Projet 1** : Toys & Models _ Recommandation de Films avec Machine Learning
-    📄 Description : Mise en place d'un tableau de bord dynamique qui servira au directeur de l’entreprise pour piloter son activité. Le tableau de bord doit s’articuler autour de ces 4 sujets principaux : ventes, finances, logistique, et ressources humaines.
-    🛠 Outils : SQL, Power BI
-    🔗 Lien vers le projet : [🔗 Lien du projet 1](https://github.com/ibtissam-C-data/Projet1_SQL_BI_Toys-Models)
+     - 📄 Description : Mise en place d'un tableau de bord dynamique qui servira au directeur de l’entreprise pour piloter son activité. Le tableau de bord doit s’articuler autour de ces 4 sujets principaux : ventes, finances, logistique, et ressources humaines.
+     - 🛠 Outils : SQL, Power BI
+     - 🔗 Lien vers le projet : [🔗 Lien du projet 1](https://github.com/ibtissam-C-data/Projet1_SQL_BI_Toys-Models)
 
   - **Projet 2** :
-    📄 Description : Une étude de marché sur la consommation de cinéma dans la région de la Creuse pour la mise en place d'un système de recommandation de film pour un cinéma situé dans la Creuse.
-    🛠 Outils : Python, Scikit-learn, Pandas, BI, Streamlit.
-    🔗 Lien vers le projet : [🔗 Lien du projet 2](https://github.com/ibtissam-C-data/Projet2_ALI_Cine)
+     - 📄 Description : Une étude de marché sur la consommation de cinéma dans la région de la Creuse pour la mise en place d'un système de recommandation de film pour un cinéma situé dans la Creuse.
+     - 🛠 Outils : Python, Scikit-learn, Pandas, BI, Streamlit.
+     - 🔗 Lien vers le projet : [🔗 Lien du projet 2](https://github.com/ibtissam-C-data/Projet2_ALI_Cine)
 
   - **Projet 3** :
-    📄 Description : Analyse des bases de données d'une association *All4Trees* pour concevoir un tableau de bord interactif permettant de suivre l'activité en temps réel et de garantir la mise en œuvre des actions nécessaires.
-    🛠 Outils : Python, Pandas, Power BI
-    🔗 Lien vers le projet : [🔗 Lien du projet 3](https://github.com/aliceaupaysdesdata/tbd-crm-ohme)
+     - 📄 Description : Analyse des bases de données d'une association *All4Trees* pour concevoir un tableau de bord interactif permettant de suivre l'activité en temps réel et de garantir la mise en œuvre des actions nécessaires.
+     - 🛠 Outils : Python, Pandas, Power BI
+     - 🔗 Lien vers le projet : [🔗 Lien du projet 3](https://github.com/aliceaupaysdesdata/tbd-crm-ohme)
 
 - 🌱 Je continue à approfondir mon apprentissage dans :
   - Deep Learning, ML, AWS..
