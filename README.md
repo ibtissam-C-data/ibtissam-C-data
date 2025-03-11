@@ -1,9 +1,7 @@
 ## Hi there 👋 Bonjour tout le monde 👋
 
-<!--
-**ibtissam-C-data/ibtissam-C-data** est un dépôt ✨ _spécial_ ✨ car son fichier `README.md` (celui-ci) apparaît sur ton profil GitHub.
 
-Salut ! Je suis Ibtissam, je suis Data Analyst passionnée par la compréhension et la valorisation des données. Mon objectif est de transformer des chiffres bruts en informations précieuses et exploitables, en créant des solutions d’analyse robustes et innovantes.
+Je suis Ibtissam, je suis Data Analyst passionnée par la compréhension et la valorisation des données. Mon objectif est de transformer des chiffres bruts en informations précieuses et exploitables, en créant des solutions d’analyse robustes et innovantes.
 
 Que ce soit dans le secteur retail, l'intelligence économique ou pour des projets plus créatifs, je m'efforce d'offrir des résultats clairs, pertinents et facilement compréhensibles, peu importe l'interlocuteur (de l'opérationnel au manager, collaborateur au parties prenantes).
 
@@ -49,4 +47,3 @@ Contribuer à des projets open-source dans le domaine de la Data.
   - CV : [encours]
 
 - ⚡ Fun fact : J'adore les puzzles et les énigmes, je trouve que résoudre des problèmes complexes est aussi amusant que fascinant !
--->
