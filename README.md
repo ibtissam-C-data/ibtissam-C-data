@@ -42,7 +42,7 @@ Contribuer à des projets open-source dans le domaine de la Data.
 
 
 - 📫 Comment me contacter :
-  - LinkedIn : [Ibtissam Chaari](https://www.linkedin.com/in/ibtissam-chaari-cosson-90655632/)
+  - LinkedIn : [Ibtissam Cosson](https://www.linkedin.com/in/ibtissam-cosson-90655632/)
   - Email : [ibtissam.cosson@outlook.fr](mailto:ibtissam.cosson@outlook.fr)
   - CV : [encours]
 
