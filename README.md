@@ -36,14 +36,14 @@ Que ce soit dans le secteur retail, l'intelligence économique ou pour des proje
   - Deep Learning, ML, AWS..
 
 - 🎯 Objectifs actuels
-Approfondir mes compétences en Machine Learning et AI.
+Approfondir mes compétences en Machine Learning et AI, autoformation en SAS, Tableau et Scratch.
 Explorer de nouvelles approches d'analyse prédictive.
 Contribuer à des projets open-source dans le domaine de la Data.
 
 
 - 📫 Comment me contacter :
-  - LinkedIn : [Ibtissam Chaari](https://www.linkedin.com/in/ibtissam-chaari-90655632/)
-  - Email : [ichaari@gmail.com](mailto:ichaari@gmail.com)
+  - LinkedIn : [Ibtissam Chaari](https://www.linkedin.com/in/ibtissam-chaari-cosson-90655632/)
+  - Email : [ibtissam.cosson@outlook.fr](mailto:ibtissam.cosson@outlook.fr)
   - CV : [encours]
 
 - ⚡ Fun fact : J'adore les puzzles et les énigmes, je trouve que résoudre des problèmes complexes est aussi amusant que fascinant !
