@@ -44,6 +44,6 @@ Contribuer à des projets open-source dans le domaine de la Data.
 - 📫 Comment me contacter :
   - LinkedIn : [Ibtissam Cosson](https://www.linkedin.com/in/ibtissam-cosson-90655632/)
   - Email : [ibtissam.cosson@outlook.fr](mailto:ibtissam.cosson@outlook.fr)
-  - CV : [encours]
+  - CV : [Ici](https://github.com/ibtissam-C-data/Portfolio/blob/main/Documents/CV_Ibtissam_COSSON_DA.pdf)
 
 - ⚡ Fun fact : J'adore les puzzles et les énigmes, je trouve que résoudre des problèmes complexes est aussi amusant que fascinant !
