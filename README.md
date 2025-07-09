@@ -25,7 +25,8 @@ Que ce soit dans le secteur retail, l'intelligence économique ou pour des proje
   - **Projet 2** : Recommandation de Films avec Machine Learning
      - 📄 Description : Une étude de marché sur la consommation de cinéma dans la région de la Creuse pour la mise en place d'un système de recommandation de film pour un cinéma situé dans la Creuse.
      - 🛠 Outils : Python, Scikit-learn, Pandas, BI, Streamlit.
-     - 🔗 Lien vers le projet : [🔗 Lien du projet 2](https://github.com/ibtissam-C-data/Projet2_ALI_Cine)
+     - 🔗 Lien vers le projet : [🔗 Lien du projet_2 Equipe](https://github.com/ibtissam-C-data/Alicine)
+     - une version personnalisée en projet : [🔗 Lien du projet_2 perso](https://github.com/ibtissam-C-data/Projet2_ALI_Cine)
 
   - **Projet 3** : Dashbord All4Trees
      - 📄 Description : Analyse des bases de données d'une association *All4Trees* pour concevoir un tableau de bord interactif permettant de suivre l'activité en temps réel et de garantir la mise en œuvre des actions nécessaires.
@@ -36,7 +37,7 @@ Que ce soit dans le secteur retail, l'intelligence économique ou pour des proje
   - Deep Learning, ML, AWS..
 
 - 🎯 Objectifs actuels
-Approfondir mes compétences en Machine Learning et AI, autoformation en SAS, Tableau et Scratch.
+Approfondir mes compétences en Machine Learning et AI, autoformation en SAS, MATLAB, Tableau.
 Explorer de nouvelles approches d'analyse prédictive.
 Contribuer à des projets open-source dans le domaine de la Data.
 
@@ -44,6 +45,6 @@ Contribuer à des projets open-source dans le domaine de la Data.
 - 📫 Comment me contacter :
   - LinkedIn : [Ibtissam Cosson](https://www.linkedin.com/in/ibtissam-cosson-90655632/)
   - Email : [ibtissam.cosson@outlook.fr](mailto:ibtissam.cosson@outlook.fr)
-  - CV : [Ici](https://github.com/ibtissam-C-data/Portfolio/blob/main/Documents/CV_Ibtissam_COSSON_DA.pdf)
+  - CV : [Ici](https://github.com/ibtissam-C-data/Portfolio/blob/main/Documents/CV_Ibtissam_COSSON_DA_1.0.pdf)
 
 - ⚡ Fun fact : J'adore les puzzles et les énigmes, je trouve que résoudre des problèmes complexes est aussi amusant que fascinant !
